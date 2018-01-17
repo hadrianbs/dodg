@@ -1,0 +1,4 @@
+{
+    "do_token_name": "example-token-name",
+    "do_token_secret": "your-personal-access-token"
+}
